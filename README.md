@@ -72,7 +72,7 @@ Edit the bot-authme-first.js file with your own settings:
   },
   "bot": {
     "username": "BOT",
-    "auth": "offline",
+    "auth": "online",
     "authmePassword": "YourAuthMePassword"
   },
   "serverCommands": {
